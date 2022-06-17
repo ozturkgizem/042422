@@ -34,7 +34,7 @@ Bu çalışmada buzulların okyanusa, atmosfer ve matematikle yakın ilişkisi g
 ```diff
 + 2016’ya kadar olan verilen kaynak olarak kullanılan projeden, 
 + 2016 sonrası veriler bu proje için oluşturulmuş Github sayfasından çekilmiştir. 
-2019 yılı öncesi için aylık derlenmiş veriler, 2019 yılı sonrası için de gerçek zamana yakın (NRT) günlük veriler kullanılmıştır. 
++ 2019 yılı öncesi için aylık derlenmiş veriler, 2019 yılı sonrası için de gerçek zamana yakın (NRT) günlük veriler kullanılmıştır. 
 ```
 
 ![image](https://user-images.githubusercontent.com/44377977/174292921-60e364ac-7843-4716-99bc-22093f59e254.png)
