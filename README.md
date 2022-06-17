@@ -173,4 +173,4 @@ Araştırma yapılırken buzullara etki eden nem, atmosfer ve okyanus faktörler
 
 
 ***:cowboy_hat_face: 
-resource code: [30]	Petty, Alek, Sea Ice Prediction Project,  https://github.com/akpetty/SeaIcePrediction. [Online; erişildi 22-5-2022].
+resource code: [30]	Petty, Alek, Sea Ice Prediction Project,  https://github.com/akpetty/SeaIcePrediction. [Online; erişildi 22-5-2022].***
