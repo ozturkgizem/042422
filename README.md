@@ -96,7 +96,7 @@ Modelin **Toplam Ortalama Kare Hatası (MSE)** 0’a yakındır. Modelin tahmin 
 
 Modelin **P Değeri** 0,05'ten büyük ise regresyon çizgisinin eğiminin sıfır olabileceğini, bağımlı ve bağımsız değişkenler arasında anlamlı bir doğrusal ilişkinin bulunmadığını gösterir. Bu modelde, P Değeri 1’dir. Dolasıyla bağımlı ve bağımsız değişkenler arasında kesin ilişki kanıtlanamaz.**
 
-***Bunlar modelin birbiriyle zayıf ilişkileri bulunan değişkenlerle güçlü tahminler yapma yeteneğinde olduğunu kanıtlar niteliktedir. 
+***Bunlar modelin birbiriyle zayıf ilişkileri bulunan değişkenlerle güçlü tahminler yapma yeteneğinde olduğunu kanıtlar niteliktedir.*** 
 
 Araştırma yapılırken buzullara etki eden nem, atmosfer ve okyanus faktörlerinin birbirleriyle de yakından ilişkili olduğu, buzullar dahil tüm bu ilişkilerin termodinamik ve dinamik prensiplerle açıklandığı ve formülize edildiği gözlemlenmiştir, matematik ve okyanus dalgalarının ve buzulların erimesinin ilişkisi de matematiksel olarak incelenmiş ve ilerideki çalışmaların bu yönde yapılması planlanmıştır.
 
