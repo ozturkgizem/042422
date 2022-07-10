@@ -11,6 +11,8 @@ MATEMATİK MÜHENDİSLİĞİ
 *Proje Danışmanı: Dr. Öğretim Üyesi Nilgün Güler Bayazıt*
 *18052054 Öztürk, Gizem*
 
+© Bu tezin bütün hakları Yıldız Teknik Üniversitesi Matematik Mühendisliği Bölümü’ne aittir.
+
 *Buzullar, okyanus yaşamı, iklim döngüsü, su döngüsü, deniz yüksekliği, okyanus sıcaklığı, nem akışı, rüzgarlar gibi pek çok parametreden etkilendiği ve aynı zamanda bu parametreleri etkilemesi nedeniyle ilgi çekici bir araştırma konusudur. Buzulların erimesindeki artış, buz kütlelerin yerleşik buzlardan kopması, erime ve donma zamanlarındaki değişim ve su yollarının değişmesi küresel iklim ve ticaret yolları açısından önem arz etmektedir.*
 
 ## İçerik
